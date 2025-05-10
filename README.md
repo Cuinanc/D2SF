@@ -71,7 +71,8 @@ Run the command below:
 python demo/vis.py --video sample_video.mp4
 ```
 Sample demo output:
-![image text]([https://github.com/******/dbscan_clustering_algorithm/blob/master/data/dbscan_performance_comparison.png "DBSCAN Performance Comparison"](https://github.com/Cuinanc/D2SF/blob/main/tinywow_sample_video_80164781.gif))
+![image](https://github.com/Cuinanc/D2SF/blob/main/tinywow_sample_video_80164781.gif)
+
 
 
 
