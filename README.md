@@ -71,6 +71,7 @@ Run the command below:
 python demo/vis.py --video sample_video.mp4
 ```
 Sample demo output:
+
 ![image](https://github.com/Cuinanc/D2SF/blob/main/tinywow_sample_video_80164781.gif)
 
 
